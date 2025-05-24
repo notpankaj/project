@@ -1,0 +1,644 @@
+body{
+width:100%;
+margin:0;
+
+}
+.container {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.image2 > img {
+    width: 100%;
+}
+
+.image2 {
+    float: left;
+    width: 100%;
+}
+.top {
+    background-color: black;
+    float: left;
+    width: 100%;
+}
+
+.main {
+    float: left;
+    padding: 20px 0;
+    width: 100%;
+}
+.left {
+    float: left;
+    width: 50%;
+}
+.right2 {
+    float: right;
+    width: 33%;
+}
+
+
+.right {
+    color: white;
+    float: right;
+}
+.right ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+.right li {
+    float: left;
+}
+.right li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.right li a:hover {
+    background-color: #e9168c;
+    color: #fff;
+}
+
+.centerimage {
+    float: left;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.left2 {
+    float: left;
+    width: 33%;
+}
+
+.right2 > img {
+    float: right;
+    width: 73%;
+    transform: rotate(-9deg);
+    border: 5px solid;
+    border-color: lightpink;
+}
+
+
+
+.product > h2 {
+    color: black;
+    float: left;
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.product {
+    float: left;
+    margin: 39px 0;
+    width: 100%;
+}
+
+.product > p {
+    color: gray;
+    margin: 5px 0 0;
+    text-align: center;
+}
+.about {
+    float: left;
+    width: 33%;
+}
+
+.form {
+    float: left;
+    width: 100%;
+}
+.left2 > img {
+    transform: rotate(8deg);
+    width: 86%;
+}
+
+
+.about h3 {
+    color: black;
+    font-size: 30px;
+    margin: 7px 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+.about p {
+    font-size: 17px;
+    line-height: 18px;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    color: gray;
+}
+
+.product1 {
+    border: 1px solid gray;
+    border-radius: 13px;
+    color: black;
+    float: left;
+    margin: 30px 28px 0 0;
+    text-align: center;
+    width: 30%;
+}
+.product2 {
+    width: 30%;
+    float: left;
+}
+
+.about2 > p {
+    color: grey;
+    float: left;
+    font-size: 16px;
+}
+.product3 {
+    width: 30%;
+    float: left;
+}
+ h4 {
+    text-align: center;
+    margin: 15px 0 0 0;
+}
+
+.product > p {
+    float: left;
+    margin: 28px 0 -37px;
+    text-align: center;
+}
+
+.product1 button {
+    background-color: #e9168c;
+    border: medium none;
+    border-radius: 10px;
+    color: white;
+    margin: 11px 0 34px;
+    padding: 10px;
+}
+.get {
+    width: 100%;
+    float: left;
+    
+}
+.get> h1 {
+    text-align: center;
+	color:grey;
+}
+
+
+.get > img {
+    float: left;
+    margin: -71px 0 -171px 475px;
+}
+.intro {
+    float: left;
+    text-align: center;
+    color: grey;
+	margin: 8px 0 29px 0px;
+}
+
+.last {
+    background-image: url("../images/wood-texture.jpg");
+    float: left;
+  height:500px;
+    width: 100%;
+}
+h5 {
+    color: white;
+}
+
+.first {
+    width: 100%;
+}
+
+
+.left0 > img {
+    float: left;
+    margin: 0 7px 0 99px;
+    padding: 55px 0;
+}
+.left0 {
+    float: left;
+    width: 50%;
+}
+
+.product1 > img {
+    margin: 19px 0;
+    width: 77%;
+}
+.left0 h5 {
+    color: white;
+    margin: 61px 0 0;
+    padding: 0;
+}
+.part1 {
+ 
+    color: white;
+ 
+    width: 30%;
+    float: left;
+}
+
+
+.part1 > h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 42px 0px 33px;
+}
+.part1 > p {
+    font-size: 16px;
+    margin: 11px 0;
+    padding: 0;
+}
+
+.part1 > input {
+    margin: 1px 0 38px;
+    padding: 9px;
+}
+
+
+.part1 > button {
+    background-color: #e9168c;
+    border: 1px solid #e9168c;
+    color: white;
+    float: right;
+    margin: 0px 40px 0 0;
+    padding: 8px;
+}
+.part1 {
+   
+    color: white;
+  
+    width: 30%;
+    float: left;
+	 padding: 30px 0;
+}
+
+.part2 {
+    color: white;
+    float: left;
+    padding: 30px 79px;
+    width: 22%;
+}
+.right9> ul {
+     float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.right9 li {
+list-style: outside none none;
+    padding: 8px 27px;
+}
+
+
+.right9 li a {
+    color: white;
+    padding: 0;
+    text-decoration: none;
+}
+
+.left9 > ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.left9 {
+    margin: 20px 0 22px;
+}
+
+.left9 li {
+    list-style: outside none none;
+    padding: 8px 27px;
+}
+
+.left9 li a {
+    color: white;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+
+.part3 {
+   
+    color: white;
+    float: left;
+    width: 30%;
+	 padding: 30px 0;
+}
+
+
+.abc {
+    float: left;
+    font-size: 25px;
+    margin: 20px 0 21px;
+    width: 100%;
+}
+.part3 {
+    color: white;
+}
+.about1 > img {
+    width: 100%;
+}
+
+.abc {
+    float: left;
+    font-size: 25px;
+    margin: 20px 0 21px;
+    width: 100%;
+}
+.part3 {
+    color: white;
+}
+.about1  h2 {
+    float: left;
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.xyz {
+    float: left;
+    font-size: 18px;
+    margin: 0 0 41px;
+}
+
+
+.abc {
+    float: left;
+    font-size: 25px;
+    margin: 20px 0 21px;
+    width: 100%;
+}
+
+.part {
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    float: left;
+    width: 100%;
+} 
+.blog h2 {
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+}
+.blog > h3 {
+    font-size:27px;
+}
+.blog > img {
+    width: 85%;
+}
+
+.blog p {
+    color: grey;
+    font-size: 16px;
+    margin: 13px 84px 26px 0;
+}
+
+.blog2 > img {
+    width: 85%;
+}
+.blog2 > p {
+    font-size: 16;
+   margin: 13px 95px 26px 0;
+}
+
+
+.blog > img {
+    height: 506px;
+    width: 88%;
+}
+.blog3 > p {
+    font-size: 16;
+    margin: 28px 89px 40px 0;
+}
+
+.blog {
+    float: left;
+    width: 100%;
+}
+.blog button {
+    background-color: #e9168c;
+    border: 1px solid #e9168c;
+    color: white;
+    float: left;
+    margin: -3px 0 47px;
+    padding: 8px;
+}
+.contect > p {
+    color: gray;
+    font-size: 15px;
+    margin: 0 0 25px;
+}
+.about button {
+    background-color: #e9168c;
+    border: medium none;
+    border-radius: 10px;
+    color: white;
+    margin: 5px 94px;
+    padding: 9px;
+}
+.contect h2 {
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+}
+.input2 li {
+    color: gray;
+    font-size: 19;
+	
+    padding: 24px 0 7px 0;
+}
+.input2 {
+    width: 30%;
+    float: left;
+    margin: 0 0px 15px -26px;
+}
+
+
+textarea {
+    color: grey;
+    height: 23%;
+    padding: 8px;
+    width: 97%;
+}
+
+.input input {
+    color: gray;
+    float: left;
+    margin: 7px 13px 9px 0;
+    padding: 13px 8px;
+    width: 47%;
+}
+.input {
+    float: left;
+    padding: 0;
+    width: 100%;
+}
+.help p {
+    font-size: 20;
+    color: gray;
+}
+.help input {
+    padding: 63px 151px 19px 225px;
+    margin: 0 0 22px 0;
+}
+.btn {
+    width: 58%;
+}
+
+.btn button {
+    background-color: #e9168c;
+    border: medium none;
+    color: white;
+    float: left;
+    font-weight: bold;
+    margin: 17px 0 15px;
+    padding: 10px 21px;
+}
+.rightp1 {
+    width: 50%;
+    float: right;
+}
+.leftp1 {
+    width: 50%;
+    float: left;
+}
+.leftp1 > img {
+    width: 100%;
+    height: 60%;
+	margin: 48px 0 0 0;
+}
+
+.rightp1 h5 {
+    color: black;
+    font: 21px "HelveticaNeueW01-ThinCn_673383",arial,sans-serif;
+    margin: 89px 0 0 34px;
+    text-transform: uppercase;
+}
+
+.rightp1 p {
+    color: grey;
+    font: 14px "HelveticaNeueW01-57Cn",arial,sans-serif;
+    margin: 19px 0 0 38px;
+}
+.rightp1 h4 {
+    font-size: 25;
+}
+
+.rightp1 button {
+    background-color: #e9168c;
+    border: medium none;
+    color: white;
+    font-size: 25px;
+    margin: 39px 0 39px 58px;
+    padding: 7px 0;
+    width: 81%;
+}
+
+
+.contactmain {
+    float: left;
+    width: 59%;
+}
+
+
+.rightp2 {
+    width: 50%;
+    float: right;
+}
+.leftp2 {
+    width: 50%;
+    float: left;
+}
+.leftp2 > img {
+    width: 100%;
+    height: 50%;
+	margin: 80px 0 0 0;
+}
+.rightp2 h5 {
+    text-transform: uppercase;
+    font: 25px "HelveticaNeueW01-ThinCn_673383",arial,sans-serif;
+    color: black;
+    margin: 89px 0 0 34px;
+}
+.rightp2 p {
+    font: 17px "HelveticaNeueW01-57Cn",arial,sans-serif;
+    margin: 19px 0 0 38px;
+}
+.rightp2 h4 {
+    font-size: 25;
+}
+.rightp2 button {
+    background-color: #e9168c;
+    width: 90%;
+    padding: 10px 30px;
+    border: none;
+    margin: 25px 0 55px 42px;
+    color: white;
+    font-size: 30;
+}
+
+
+
+.rightp3 {
+    width: 50%;
+    float: right;
+}
+.leftp3 {
+    width: 50%;
+    float: left;
+}
+.leftp3 > img {
+    width: 100%;
+    height: 50%;
+	margin: 80px 0 0 0;
+}
+.rightp3 h5 {
+    text-transform: uppercase;
+    font: 25px "HelveticaNeueW01-ThinCn_673383",arial,sans-serif;
+    color: black;
+    margin: 89px 0 0 34px;
+}
+.rightp3 p {
+    font: 17px "HelveticaNeueW01-57Cn",arial,sans-serif;
+    margin: 19px 0 0 38px;
+}
+.rightp3 h4 {
+    font-size: 25;
+}
+.rightp3 button {
+    background-color: #e9168c;
+    width: 90%;
+    padding: 10px 30px;
+    border: none;
+    margin: 25px 0 55px 42px;
+    color: white;
+    font-size: 30;
+}
+
+.rightc {
+    float: right;
+    width: 30%;
+}
+
+.rightc p {
+    font-size: 15px;
+    margin: 5px 0 0 50px;
+	color: gray;
+}
+
+.rightc > h2 {
+    margin: 0 0 0 50px;
+}
